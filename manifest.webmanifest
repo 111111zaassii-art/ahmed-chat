@@ -1,0 +1,11 @@
+{
+  "name": "AHMED CHAT",
+  "short_name": "AHMED CHAT",
+  "description": "محادثاتك في مكان واحد",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#07110c",
+  "theme_color": "#07110c",
+  "dir": "rtl",
+  "lang": "ar"
+}
